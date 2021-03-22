@@ -1,0 +1,19 @@
+# inappbrowser
+
+In app browser for capacitor v3
+
+## Install
+
+```bash
+npm install inappbrowser
+npx cap sync
+```
+
+## API
+
+<docgen-index></docgen-index>
+
+<docgen-api>
+<!-- run docgen to generate docs from the source -->
+<!-- More info: https://github.com/ionic-team/capacitor-docgen -->
+</docgen-api>
